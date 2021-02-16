@@ -15,7 +15,7 @@ class SVG
 </svg>';
     }
 
-    public static function star_half($color1 = '#eceff1', $color2 = '#ffc107')
+    public static function star_half($color1 = '#ffc107', $color2 = '#eceff1')
     {
         return '<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <path d="m23.79 9.87-5.36 5.49 1.26 7.77c.111.62-.562 1.074-1.1.78l-6.59-3.65v-20.23c.28 0 .56.13.68.4l3.31 7.05 7.37 1.12c.616.11.843.835.43 1.27z" fill="'.$color1.'"/>
