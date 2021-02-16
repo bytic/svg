@@ -1,6 +1,6 @@
 {
   "name": "bytic/svg",
-  "license": "",
+  "license": "MIT",
   "description": "svg generator",
   "authors": [
     {
